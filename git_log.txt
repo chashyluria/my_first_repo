@@ -1,0 +1,23 @@
+commit 8d7e4c482bf7c2671e044ecba8743470edfae8a7
+Author: chashyluria <luriachashy@gmail.com>
+Date:   Thu Nov 21 17:55:09 2024 -0500
+
+    Added ignored_file.txt to the repository
+
+commit b5c0ad9c811014d4e881ab6fa1522b641920495b
+Author: chashyluria <luriachashy@gmail.com>
+Date:   Thu Nov 21 12:28:51 2024 -0500
+
+    added gitignore
+
+commit 38f4c59f3aa55c29feef924dc18e2a9ddf387a29
+Author: chashyluria <luriachashy@gmail.com>
+Date:   Thu Nov 21 00:57:41 2024 -0500
+
+    added two files
+
+commit 5b1881cd987c1016f24ab9b0792dd88ae38760b5
+Author: chashyluria <luriachashy@gmail.com>
+Date:   Thu Nov 21 00:53:29 2024 -0500
+
+    added readme.txt
